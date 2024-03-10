@@ -1,0 +1,12 @@
+{
+    "users": {
+        "user1": {
+            "username": "lazprod@test.com",
+            "password": "123456"     
+        },
+        "user2": {
+            "username": "lazprod2@test.com",
+            "password": "123456"
+        }
+    }
+}
