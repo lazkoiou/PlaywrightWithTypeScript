@@ -1,6 +1,7 @@
 {
-    "urls": {
-        "herokuHomePage": "https://the-internet.herokuapp.com/"
+    "URLs": {
+        "herokuHomePageURL": "https://the-internet.herokuapp.com/",
+        "herokuAddRemoveElementsURL": "https://the-internet.herokuapp.com/add_remove_elements/"
     },
 
     "APIs": {

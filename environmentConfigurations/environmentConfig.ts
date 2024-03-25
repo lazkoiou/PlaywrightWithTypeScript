@@ -18,7 +18,7 @@ interface EnvironmentData {
 }
 
 interface EnvironmentURLs {
-    urls: { [key: string]: string }
+    URLs: { [key: string]: string }
     APIs: { [key: string]: string }
     // Add more environment dependent variables as needed
 }
